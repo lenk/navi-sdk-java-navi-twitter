@@ -1,0 +1,4 @@
+# Project exclude paths
+/out/
+/target/
+/src/main/java/net/navibot/twitter/TwitterBearer.java

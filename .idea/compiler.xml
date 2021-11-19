@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Annotation profile for navi-sdk-java-navi-twitter" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processor name="org.pf4j.processor.ExtensionAnnotationProcessor" />
+        <module name="navi-sdk-java-navi-twitter" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="navi-sdk-java-navi-twitter" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
